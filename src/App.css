@@ -1,0 +1,116 @@
+
+.box-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.color {
+  width: 200px;
+  height: 200px;
+  border: 1px solid grey;
+}
+.header {
+  text-align: center;
+}
+.todo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1em;
+  margin: 1em auto;
+  width: 30%;
+  border: 2px solid blue;
+}
+.todo > div {
+  margin: 0 2em;
+}
+.todo > div > span {
+  font-weight: bolder;
+}
+.isComplete {
+  text-decoration: line-through;
+}
+.todo:hover {
+  width: 31%;
+  border: 2px solid red;
+}
+.checkbox {
+  width: 4em;
+  height: 4em;
+}
+.exercise {
+  padding: 2em;
+}
+
+.links {
+  /* border: 2px solid red; */
+  margin: 2em;
+  text-align: center;
+}
+.disabled {
+  cursor: not-allowed;
+  text-decoration: none;
+  opacity: 0.5;
+}
+
+.able {
+  cursor: pointer;
+  color: brown;
+  font-weight: bolder;
+}
+
+.button-link {
+  padding: 1em;
+  background: blue;
+  border: 0;
+  outline: 0;
+  color: aliceblue;
+  font-weight: bolder;
+}
+.delete {
+  padding: 1em;
+  background: red;
+  color: white;
+  border: 0;
+}
+
+.add-container {
+  text-align: center;
+}
+.todo-form {
+  width: 40%;
+  padding: 2em;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.todo-form  input, .div-form input {
+  border: solid 1px red;
+  padding: 1em;
+}
+.todo-form button, .submit {
+  padding: 1em 2em;
+  margin-top: 1em;
+  border: 0;
+  outline: 0;
+  background: maroon;
+  color: #fff;
+}
+.div-form {
+  text-align: center;
+  margin: 1em auto;
+  width: 20%;
+  padding: 1em 4em;
+  border: solid 1px grey;
+}
+
+.divs-container {
+  padding: 2em;
+  margin: 2em;
+  display: flex;
+  flex-wrap: wrap;
+}
+.div {
+  margin: 1em;
+}
