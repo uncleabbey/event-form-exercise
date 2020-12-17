@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/uncleabbey/event-form-exercise/static/css/main.56cf8837.chunk.css",
-    "main.js": "/uncleabbey/event-form-exercise/static/js/main.576de362.chunk.js",
-    "main.js.map": "/uncleabbey/event-form-exercise/static/js/main.576de362.chunk.js.map",
-    "runtime-main.js": "/uncleabbey/event-form-exercise/static/js/runtime-main.33f5584c.js",
-    "runtime-main.js.map": "/uncleabbey/event-form-exercise/static/js/runtime-main.33f5584c.js.map",
-    "static/js/2.03e54a32.chunk.js": "/uncleabbey/event-form-exercise/static/js/2.03e54a32.chunk.js",
-    "static/js/2.03e54a32.chunk.js.map": "/uncleabbey/event-form-exercise/static/js/2.03e54a32.chunk.js.map",
-    "static/js/3.3e9be368.chunk.js": "/uncleabbey/event-form-exercise/static/js/3.3e9be368.chunk.js",
-    "static/js/3.3e9be368.chunk.js.map": "/uncleabbey/event-form-exercise/static/js/3.3e9be368.chunk.js.map",
-    "index.html": "/uncleabbey/event-form-exercise/index.html",
-    "static/css/main.56cf8837.chunk.css.map": "/uncleabbey/event-form-exercise/static/css/main.56cf8837.chunk.css.map",
-    "static/js/2.03e54a32.chunk.js.LICENSE.txt": "/uncleabbey/event-form-exercise/static/js/2.03e54a32.chunk.js.LICENSE.txt"
+    "main.css": "/event-form-exercise/static/css/main.56cf8837.chunk.css",
+    "main.js": "/event-form-exercise/static/js/main.576de362.chunk.js",
+    "main.js.map": "/event-form-exercise/static/js/main.576de362.chunk.js.map",
+    "runtime-main.js": "/event-form-exercise/static/js/runtime-main.5bde1cbd.js",
+    "runtime-main.js.map": "/event-form-exercise/static/js/runtime-main.5bde1cbd.js.map",
+    "static/js/2.03e54a32.chunk.js": "/event-form-exercise/static/js/2.03e54a32.chunk.js",
+    "static/js/2.03e54a32.chunk.js.map": "/event-form-exercise/static/js/2.03e54a32.chunk.js.map",
+    "static/js/3.3e9be368.chunk.js": "/event-form-exercise/static/js/3.3e9be368.chunk.js",
+    "static/js/3.3e9be368.chunk.js.map": "/event-form-exercise/static/js/3.3e9be368.chunk.js.map",
+    "index.html": "/event-form-exercise/index.html",
+    "static/css/main.56cf8837.chunk.css.map": "/event-form-exercise/static/css/main.56cf8837.chunk.css.map",
+    "static/js/2.03e54a32.chunk.js.LICENSE.txt": "/event-form-exercise/static/js/2.03e54a32.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.33f5584c.js",
+    "static/js/runtime-main.5bde1cbd.js",
     "static/js/2.03e54a32.chunk.js",
     "static/css/main.56cf8837.chunk.css",
     "static/js/main.576de362.chunk.js"
